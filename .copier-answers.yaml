@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 0.9.0
+_src_path: gh:radio-aktywne/template-devcontainer
+accountname: radio-aktywne
+description: Devcontainer for generic services 👤
+devcontainername: service-generic
+docs: true
+docsurl: https://radio-aktywne.github.io/devcontainer-service-generic
+imagename: devcontainers/service-generic
+registry: true
+releases: true
+reponame: devcontainer-service-generic
+repourl: https://github.com/radio-aktywne/devcontainer-service-generic
